@@ -5,3 +5,10 @@ C:\Users\Usuario\source\repos\Practica2\Practica2\obj\Debug\Practica2.csproj.Ass
 C:\Users\Usuario\source\repos\Practica2\Practica2\obj\Debug\Practica2.csproj.CoreCompileInputs.cache
 C:\Users\Usuario\source\repos\Practica2\Practica2\obj\Debug\Practica2.exe
 C:\Users\Usuario\source\repos\Practica2\Practica2\obj\Debug\Practica2.pdb
+C:\Users\Usuario\OneDrive\Diego\Metodologia y programación estructurada\9-13 de septiembre\Practica2\Practica2\bin\Debug\Practica2.exe.config
+C:\Users\Usuario\OneDrive\Diego\Metodologia y programación estructurada\9-13 de septiembre\Practica2\Practica2\bin\Debug\Practica2.exe
+C:\Users\Usuario\OneDrive\Diego\Metodologia y programación estructurada\9-13 de septiembre\Practica2\Practica2\bin\Debug\Practica2.pdb
+C:\Users\Usuario\OneDrive\Diego\Metodologia y programación estructurada\9-13 de septiembre\Practica2\Practica2\obj\Debug\Practica2.csproj.AssemblyReference.cache
+C:\Users\Usuario\OneDrive\Diego\Metodologia y programación estructurada\9-13 de septiembre\Practica2\Practica2\obj\Debug\Practica2.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\OneDrive\Diego\Metodologia y programación estructurada\9-13 de septiembre\Practica2\Practica2\obj\Debug\Practica2.exe
+C:\Users\Usuario\OneDrive\Diego\Metodologia y programación estructurada\9-13 de septiembre\Practica2\Practica2\obj\Debug\Practica2.pdb

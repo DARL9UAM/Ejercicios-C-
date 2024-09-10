@@ -12,7 +12,7 @@ namespace Practica2
         {
             int[,] tabla1 = new int[3, 3];
             int f, c;
-            double suma;
+            int suma = 0;
             Console.WriteLine("Programa usando arreglos bidimensionales");
             Console.WriteLine("Digita los datos del arreglo");
             //Llenar el arreglo
@@ -21,11 +21,13 @@ namespace Practica2
                 for (c = 0; c < 3; c++)
                 {
                     tabla1[f, c] = int.Parse(Console.ReadLine());
+                    suma += tabla1[f, c];
                 }
             }
             Console.WriteLine("");
             //Imprimir el arreglo
             Console.WriteLine("Imprimiendo el arreglo...");
+            
             for (f = 0; f < 3; f++)
             {
                 for (c = 0; c < 3; c++)
@@ -33,9 +35,9 @@ namespace Practica2
                     Console.Write(" " + tabla1 [ f , c ] );
                 } 
                 Console.WriteLine("");
-                suma = f + c;
+                
             }
-            Console.WriteLine(value: $"La suma del arreglo es:{suma}");
+            Console.WriteLine($"La suma del arreglo es:{suma}");
             Console.ReadKey();
         }
     }

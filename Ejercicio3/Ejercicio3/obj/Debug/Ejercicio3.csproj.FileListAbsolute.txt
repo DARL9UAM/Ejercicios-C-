@@ -1,0 +1,14 @@
+C:\Users\Usuario\source\repos\Ejercicio3\Ejercicio3\bin\Debug\Ejercicio3.exe.config
+C:\Users\Usuario\source\repos\Ejercicio3\Ejercicio3\bin\Debug\Ejercicio3.exe
+C:\Users\Usuario\source\repos\Ejercicio3\Ejercicio3\bin\Debug\Ejercicio3.pdb
+C:\Users\Usuario\source\repos\Ejercicio3\Ejercicio3\obj\Debug\Ejercicio3.csproj.AssemblyReference.cache
+C:\Users\Usuario\source\repos\Ejercicio3\Ejercicio3\obj\Debug\Ejercicio3.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\Ejercicio3\Ejercicio3\obj\Debug\Ejercicio3.exe
+C:\Users\Usuario\source\repos\Ejercicio3\Ejercicio3\obj\Debug\Ejercicio3.pdb
+C:\Users\Usuario\OneDrive\Diego\Metodologia y programación estructurada\9-13 de septiembre\Ejercicio3\Ejercicio3\bin\Debug\Ejercicio3.exe.config
+C:\Users\Usuario\OneDrive\Diego\Metodologia y programación estructurada\9-13 de septiembre\Ejercicio3\Ejercicio3\bin\Debug\Ejercicio3.exe
+C:\Users\Usuario\OneDrive\Diego\Metodologia y programación estructurada\9-13 de septiembre\Ejercicio3\Ejercicio3\bin\Debug\Ejercicio3.pdb
+C:\Users\Usuario\OneDrive\Diego\Metodologia y programación estructurada\9-13 de septiembre\Ejercicio3\Ejercicio3\obj\Debug\Ejercicio3.csproj.AssemblyReference.cache
+C:\Users\Usuario\OneDrive\Diego\Metodologia y programación estructurada\9-13 de septiembre\Ejercicio3\Ejercicio3\obj\Debug\Ejercicio3.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\OneDrive\Diego\Metodologia y programación estructurada\9-13 de septiembre\Ejercicio3\Ejercicio3\obj\Debug\Ejercicio3.exe
+C:\Users\Usuario\OneDrive\Diego\Metodologia y programación estructurada\9-13 de septiembre\Ejercicio3\Ejercicio3\obj\Debug\Ejercicio3.pdb
